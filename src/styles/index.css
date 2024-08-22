@@ -1,0 +1,12 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Libre Franklin', sans-serif;
+  padding: 10rem;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
